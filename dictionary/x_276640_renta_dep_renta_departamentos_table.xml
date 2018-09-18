@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Renta Departamentos Table" max_length="40" name="x_276640_renta_dep_renta_departamentos_table" type="collection">
+        <element label="Dirección" max_length="50" name="direccion" type="string"/>
+        <element label="Fecha" max_length="40" name="fecha" type="glide_date"/>
+        <element label="Hora" max_length="40" name="hora" type="glide_time"/>
+        <element label="Piso" max_length="40" name="piso" type="string"/>
+        <element label="Solicitante" max_length="50" name="solicitante" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Tipo de departamento" max_length="50" name="tipo_de_departamento" type="string"/>
+    </element>
+</database>

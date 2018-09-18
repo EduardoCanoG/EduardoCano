@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="71536fbe4f20a700003233718110c71e" sys_domain="global" table="x_276640_renta_dep_renta_departamentos_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-18 21:09:14</sys_created_on>
+            <sys_id>75192bb24f60a700003233718110c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_276640_renta_dep_renta_departamentos_table" sys_domain="global" view="Default view">71536fbe4f20a700003233718110c71e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-18 21:09:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tipo_de_departamento</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-18 21:09:14</sys_created_on>
+            <sys_id>f5192bb24f60a700003233718110c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_276640_renta_dep_renta_departamentos_table" sys_domain="global" view="Default view">71536fbe4f20a700003233718110c71e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-18 21:09:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>solicitante</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-18 21:09:14</sys_created_on>
+            <sys_id>79192bb24f60a700003233718110c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_276640_renta_dep_renta_departamentos_table" sys_domain="global" view="Default view">71536fbe4f20a700003233718110c71e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-18 21:09:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hora</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-18 21:09:14</sys_created_on>
+            <sys_id>f9192bb24f60a700003233718110c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_276640_renta_dep_renta_departamentos_table" sys_domain="global" view="Default view">71536fbe4f20a700003233718110c71e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-18 21:09:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-18 21:09:14</sys_created_on>
+            <sys_id>7d192bb24f60a700003233718110c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_276640_renta_dep_renta_departamentos_table" sys_domain="global" view="Default view">71536fbe4f20a700003233718110c71e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-18 21:09:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>direccion</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-18 21:09:14</sys_created_on>
+            <sys_id>fd192bb24f60a700003233718110c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_276640_renta_dep_renta_departamentos_table" sys_domain="global" view="Default view">71536fbe4f20a700003233718110c71e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-18 21:09:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fecha</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-18 21:09:14</sys_created_on>
+            <sys_id>71192bb24f60a700003233718110c7bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_276640_renta_dep_renta_departamentos_table" sys_domain="global" view="Default view">71536fbe4f20a700003233718110c71e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-18 21:09:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>piso</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-18 21:09:14</sys_created_on>
+            <sys_id>f1192bb24f60a700003233718110c7bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_276640_renta_dep_renta_departamentos_table" sys_domain="global" view="Default view">71536fbe4f20a700003233718110c71e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-18 21:09:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_276640_renta_dep_renta_departamentos_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-18 20:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71536fbe4f20a700003233718110c71e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_276640_renta_dep_renta_departamentos_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Renta Departamentos" source="x_276640_renta_dep">7ae227b24f20a700003233718110c7f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Renta Departamentos">7ae227b24f20a700003233718110c7f7</sys_scope>
+            <sys_update_name>sys_ui_section_71536fbe4f20a700003233718110c71e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-18 20:44:06</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

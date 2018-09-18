@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Datos" max_length="40" name="x_276640_renta_dep_datos" type="collection">
+        <element label="nombre" max_length="40" name="nombre" type="string"/>
+        <element label="No. Renta" max_length="32" name="no_renta" reference="x_276640_renta_dep_renta_departamentos_table" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="no_renta"/>
+        </index>
+    </element>
+</database>

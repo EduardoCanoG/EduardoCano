@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Crear Datos" max_length="40" name="x_276640_renta_dep_crear_datos" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Nombre Contarto" max_length="40" name="nombre_contra" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Asignar Depa" max_length="32" name="u_asignardepa" reference="x_276640_renta_dep_renta_departamentos_table" type="reference"/>
+        <index name="index">
+            <element name="u_asignardepa"/>
+        </index>
+    </element>
+</database>
